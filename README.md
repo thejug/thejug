@@ -1,5 +1,7 @@
 ## Hi there 👋
 My name is Thejaswi and I go by Theju!
+I’m currently working on moving from ClearCase to GitHub ...
+⚡ Fun fact: I love reading books. Currently reading 4 books :)
 
 <!--
 **thejug/thejug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
