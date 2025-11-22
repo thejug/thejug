@@ -3,7 +3,7 @@ My name is Thejaswi and I go by Theju!
 
 I’m currently working on moving from ClearCase to GitHub ...
 
-⚡ Fun fact: I love reading books. Currently reading 4 books :)
+⚡ Fun fact: I love reading books. Currently reading 3 books - one in front of laptop, another in commute and another in the office :)
 
 <!--
 **thejug/thejug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
