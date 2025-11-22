@@ -1,7 +1,10 @@
+
+<img width="179" height="105" alt="image" src="https://github.com/user-attachments/assets/9f416aba-d2e7-478c-942f-cca4a4d973e0" />
+
 ## Hi there 👋
 My name is Thejaswi and I go by Theju!
 
-- 🔭 I’m currently working on moving from ClearCase to GitHub ...
+- 🔭 I’m currently working on moving Engineering SoCs and IP Cores from ClearCase to GitHub ...
 
 - ⚡ Fun fact: I love reading books. Currently reading 3 books - one in front of laptop, another in commute and another in the office :)
 
